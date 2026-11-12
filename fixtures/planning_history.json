@@ -1,0 +1,2310 @@
+{
+  "forecasts": [
+    {
+      "issued_year": 2010,
+      "target_year": 2011,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 120,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2010,
+      "target_year": 2011,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 120,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2010,
+      "target_year": 2011,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 90,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2010,
+      "target_year": 2011,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 90,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2010,
+      "target_year": 2012,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 120,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2010,
+      "target_year": 2012,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 120,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2010,
+      "target_year": 2012,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 90,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2010,
+      "target_year": 2012,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 90,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2010,
+      "target_year": 2013,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 120,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2010,
+      "target_year": 2013,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 120,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2010,
+      "target_year": 2013,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 90,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2010,
+      "target_year": 2013,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 90,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2011,
+      "target_year": 2012,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 121,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2011,
+      "target_year": 2012,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 121,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2011,
+      "target_year": 2012,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 91,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2011,
+      "target_year": 2012,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 91,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2011,
+      "target_year": 2013,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 121,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2011,
+      "target_year": 2013,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 121,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2011,
+      "target_year": 2013,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 91,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2011,
+      "target_year": 2013,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 91,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2011,
+      "target_year": 2014,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 121,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2011,
+      "target_year": 2014,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 121,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2011,
+      "target_year": 2014,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 91,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2011,
+      "target_year": 2014,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 91,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2012,
+      "target_year": 2013,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 122,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2012,
+      "target_year": 2013,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 122,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2012,
+      "target_year": 2013,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 92,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2012,
+      "target_year": 2013,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 92,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2012,
+      "target_year": 2014,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 122,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2012,
+      "target_year": 2014,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 122,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2012,
+      "target_year": 2014,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 92,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2012,
+      "target_year": 2014,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 92,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2012,
+      "target_year": 2015,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 122,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2012,
+      "target_year": 2015,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 122,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2012,
+      "target_year": 2015,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 92,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2012,
+      "target_year": 2015,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 92,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2013,
+      "target_year": 2014,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 123,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2013,
+      "target_year": 2014,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 123,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2013,
+      "target_year": 2014,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 93,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2013,
+      "target_year": 2014,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 93,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2013,
+      "target_year": 2015,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 123,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2013,
+      "target_year": 2015,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 123,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2013,
+      "target_year": 2015,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 93,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2013,
+      "target_year": 2015,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 93,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2013,
+      "target_year": 2016,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 123,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2013,
+      "target_year": 2016,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 123,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2013,
+      "target_year": 2016,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 93,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2013,
+      "target_year": 2016,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 93,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2014,
+      "target_year": 2015,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 124,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2014,
+      "target_year": 2015,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 124,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2014,
+      "target_year": 2015,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 94,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2014,
+      "target_year": 2015,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 94,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2014,
+      "target_year": 2016,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 124,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2014,
+      "target_year": 2016,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 124,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2014,
+      "target_year": 2016,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 94,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2014,
+      "target_year": 2016,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 94,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2014,
+      "target_year": 2017,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 124,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2014,
+      "target_year": 2017,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 124,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2014,
+      "target_year": 2017,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 94,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2014,
+      "target_year": 2017,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 94,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2015,
+      "target_year": 2016,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 125,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2015,
+      "target_year": 2016,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 125,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2015,
+      "target_year": 2016,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 95,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2015,
+      "target_year": 2016,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 95,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2015,
+      "target_year": 2017,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 125,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2015,
+      "target_year": 2017,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 125,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2015,
+      "target_year": 2017,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 95,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2015,
+      "target_year": 2017,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 95,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2015,
+      "target_year": 2018,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 125,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2015,
+      "target_year": 2018,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 125,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2015,
+      "target_year": 2018,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 95,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2015,
+      "target_year": 2018,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 95,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2016,
+      "target_year": 2017,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 126,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2016,
+      "target_year": 2017,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 126,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2016,
+      "target_year": 2017,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 96,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2016,
+      "target_year": 2017,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 96,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2016,
+      "target_year": 2018,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 126,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2016,
+      "target_year": 2018,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 126,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2016,
+      "target_year": 2018,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 96,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2016,
+      "target_year": 2018,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 96,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2016,
+      "target_year": 2019,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 126,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2016,
+      "target_year": 2019,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 126,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2016,
+      "target_year": 2019,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 96,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2016,
+      "target_year": 2019,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 96,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2017,
+      "target_year": 2018,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 127,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2017,
+      "target_year": 2018,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 127,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2017,
+      "target_year": 2018,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 97,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2017,
+      "target_year": 2018,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 97,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2017,
+      "target_year": 2019,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 127,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2017,
+      "target_year": 2019,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 127,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2017,
+      "target_year": 2019,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 97,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2017,
+      "target_year": 2019,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 97,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2017,
+      "target_year": 2020,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 127,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2017,
+      "target_year": 2020,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 127,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2017,
+      "target_year": 2020,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 97,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2017,
+      "target_year": 2020,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 97,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2018,
+      "target_year": 2019,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 128,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2018,
+      "target_year": 2019,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 128,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2018,
+      "target_year": 2019,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 98,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2018,
+      "target_year": 2019,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 98,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2018,
+      "target_year": 2020,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 128,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2018,
+      "target_year": 2020,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 128,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2018,
+      "target_year": 2020,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 98,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2018,
+      "target_year": 2020,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 98,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2018,
+      "target_year": 2021,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 128,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2018,
+      "target_year": 2021,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 128,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2018,
+      "target_year": 2021,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 98,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2018,
+      "target_year": 2021,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 98,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2019,
+      "target_year": 2020,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 129,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2019,
+      "target_year": 2020,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 129,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2019,
+      "target_year": 2020,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 99,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2019,
+      "target_year": 2020,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 99,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2019,
+      "target_year": 2021,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 129,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2019,
+      "target_year": 2021,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 129,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2019,
+      "target_year": 2021,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 99,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2019,
+      "target_year": 2021,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 99,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2019,
+      "target_year": 2022,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 129,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2019,
+      "target_year": 2022,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 129,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2019,
+      "target_year": 2022,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 99,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2019,
+      "target_year": 2022,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 99,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2020,
+      "target_year": 2021,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 130,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2020,
+      "target_year": 2021,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 130,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2020,
+      "target_year": 2021,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 100,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2020,
+      "target_year": 2021,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 100,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2020,
+      "target_year": 2022,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 130,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2020,
+      "target_year": 2022,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 130,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2020,
+      "target_year": 2022,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 100,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2020,
+      "target_year": 2022,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 100,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2020,
+      "target_year": 2023,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 130,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2020,
+      "target_year": 2023,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 130,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2020,
+      "target_year": 2023,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 100,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2020,
+      "target_year": 2023,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 100,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2021,
+      "target_year": 2022,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 131,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2021,
+      "target_year": 2022,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 131,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2021,
+      "target_year": 2022,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 101,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2021,
+      "target_year": 2022,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 101,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2021,
+      "target_year": 2023,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 131,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2021,
+      "target_year": 2023,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 131,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2021,
+      "target_year": 2023,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 101,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2021,
+      "target_year": 2023,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 101,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2021,
+      "target_year": 2024,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 131,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2021,
+      "target_year": 2024,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 131,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2021,
+      "target_year": 2024,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 101,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2021,
+      "target_year": 2024,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 101,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2022,
+      "target_year": 2023,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 132,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2022,
+      "target_year": 2023,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 132,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2022,
+      "target_year": 2023,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 102,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2022,
+      "target_year": 2023,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 102,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2022,
+      "target_year": 2024,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 132,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2022,
+      "target_year": 2024,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 132,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2022,
+      "target_year": 2024,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 102,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2022,
+      "target_year": 2024,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 102,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2022,
+      "target_year": 2025,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 132,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2022,
+      "target_year": 2025,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 132,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2022,
+      "target_year": 2025,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 102,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2022,
+      "target_year": 2025,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 102,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2023,
+      "target_year": 2024,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 133,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2023,
+      "target_year": 2024,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 133,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2023,
+      "target_year": 2024,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 103,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2023,
+      "target_year": 2024,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 103,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2023,
+      "target_year": 2025,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 133,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2023,
+      "target_year": 2025,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 133,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2023,
+      "target_year": 2025,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 103,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2023,
+      "target_year": 2025,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 103,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2023,
+      "target_year": 2026,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 133,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2023,
+      "target_year": 2026,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 133,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2023,
+      "target_year": 2026,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 103,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2023,
+      "target_year": 2026,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 103,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2024,
+      "target_year": 2025,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 134,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2024,
+      "target_year": 2025,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 134,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2024,
+      "target_year": 2025,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 104,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2024,
+      "target_year": 2025,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 104,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2024,
+      "target_year": 2026,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 134,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2024,
+      "target_year": 2026,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 134,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2024,
+      "target_year": 2026,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 104,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2024,
+      "target_year": 2026,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 104,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2024,
+      "target_year": 2027,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 134,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2024,
+      "target_year": 2027,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 134,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2024,
+      "target_year": 2027,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 104,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2024,
+      "target_year": 2027,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 104,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2025,
+      "target_year": 2026,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 135,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2025,
+      "target_year": 2026,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 135,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2025,
+      "target_year": 2026,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 105,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2025,
+      "target_year": 2026,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 105,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2025,
+      "target_year": 2027,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 135,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2025,
+      "target_year": 2027,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 135,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2025,
+      "target_year": 2027,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 105,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2025,
+      "target_year": 2027,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 105,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2025,
+      "target_year": 2028,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 135,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2025,
+      "target_year": 2028,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 135,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2025,
+      "target_year": 2028,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "predicted": 105,
+      "model": "planning"
+    },
+    {
+      "issued_year": 2025,
+      "target_year": 2028,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "predicted": 105,
+      "model": "planning"
+    }
+  ],
+  "observations": [
+    {
+      "year": 2011,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "pupils": 128,
+      "first_known_year": 2012
+    },
+    {
+      "year": 2011,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "pupils": 128,
+      "first_known_year": 2012
+    },
+    {
+      "year": 2011,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "pupils": 98,
+      "first_known_year": 2012
+    },
+    {
+      "year": 2011,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "pupils": 98,
+      "first_known_year": 2012
+    },
+    {
+      "year": 2012,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "pupils": 117,
+      "first_known_year": 2013
+    },
+    {
+      "year": 2012,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "pupils": 117,
+      "first_known_year": 2013
+    },
+    {
+      "year": 2012,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "pupils": 87,
+      "first_known_year": 2013
+    },
+    {
+      "year": 2012,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "pupils": 87,
+      "first_known_year": 2013
+    },
+    {
+      "year": 2013,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "pupils": 125,
+      "first_known_year": 2014
+    },
+    {
+      "year": 2013,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "pupils": 125,
+      "first_known_year": 2014
+    },
+    {
+      "year": 2013,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "pupils": 95,
+      "first_known_year": 2014
+    },
+    {
+      "year": 2013,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "pupils": 95,
+      "first_known_year": 2014
+    },
+    {
+      "year": 2014,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "pupils": 114,
+      "first_known_year": 2015
+    },
+    {
+      "year": 2014,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "pupils": 114,
+      "first_known_year": 2015
+    },
+    {
+      "year": 2014,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "pupils": 84,
+      "first_known_year": 2015
+    },
+    {
+      "year": 2014,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "pupils": 84,
+      "first_known_year": 2015
+    },
+    {
+      "year": 2015,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "pupils": 122,
+      "first_known_year": 2016
+    },
+    {
+      "year": 2015,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "pupils": 122,
+      "first_known_year": 2016
+    },
+    {
+      "year": 2015,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "pupils": 92,
+      "first_known_year": 2016
+    },
+    {
+      "year": 2015,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "pupils": 92,
+      "first_known_year": 2016
+    },
+    {
+      "year": 2016,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "pupils": 130,
+      "first_known_year": 2017
+    },
+    {
+      "year": 2016,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "pupils": 130,
+      "first_known_year": 2017
+    },
+    {
+      "year": 2016,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "pupils": 100,
+      "first_known_year": 2017
+    },
+    {
+      "year": 2016,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "pupils": 100,
+      "first_known_year": 2017
+    },
+    {
+      "year": 2017,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "pupils": 119,
+      "first_known_year": 2018
+    },
+    {
+      "year": 2017,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "pupils": 119,
+      "first_known_year": 2018
+    },
+    {
+      "year": 2017,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "pupils": 89,
+      "first_known_year": 2018
+    },
+    {
+      "year": 2017,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "pupils": 89,
+      "first_known_year": 2018
+    },
+    {
+      "year": 2018,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "pupils": 127,
+      "first_known_year": 2019
+    },
+    {
+      "year": 2018,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "pupils": 127,
+      "first_known_year": 2019
+    },
+    {
+      "year": 2018,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "pupils": 97,
+      "first_known_year": 2019
+    },
+    {
+      "year": 2018,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "pupils": 97,
+      "first_known_year": 2019
+    },
+    {
+      "year": 2019,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "pupils": 135,
+      "first_known_year": 2020
+    },
+    {
+      "year": 2019,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "pupils": 135,
+      "first_known_year": 2020
+    },
+    {
+      "year": 2019,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "pupils": 105,
+      "first_known_year": 2020
+    },
+    {
+      "year": 2019,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "pupils": 105,
+      "first_known_year": 2020
+    },
+    {
+      "year": 2020,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "pupils": 124,
+      "first_known_year": 2021
+    },
+    {
+      "year": 2020,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "pupils": 124,
+      "first_known_year": 2021
+    },
+    {
+      "year": 2020,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "pupils": 94,
+      "first_known_year": 2021
+    },
+    {
+      "year": 2020,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "pupils": 94,
+      "first_known_year": 2021
+    },
+    {
+      "year": 2021,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "pupils": 132,
+      "first_known_year": 2022
+    },
+    {
+      "year": 2021,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "pupils": 132,
+      "first_known_year": 2022
+    },
+    {
+      "year": 2021,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "pupils": 102,
+      "first_known_year": 2022
+    },
+    {
+      "year": 2021,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "pupils": 102,
+      "first_known_year": 2022
+    },
+    {
+      "year": 2022,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "pupils": 140,
+      "first_known_year": 2023
+    },
+    {
+      "year": 2022,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "pupils": 140,
+      "first_known_year": 2023
+    },
+    {
+      "year": 2022,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "pupils": 110,
+      "first_known_year": 2023
+    },
+    {
+      "year": 2022,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "pupils": 110,
+      "first_known_year": 2023
+    },
+    {
+      "year": 2023,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "pupils": 129,
+      "first_known_year": 2024
+    },
+    {
+      "year": 2023,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "pupils": 129,
+      "first_known_year": 2024
+    },
+    {
+      "year": 2023,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "pupils": 99,
+      "first_known_year": 2024
+    },
+    {
+      "year": 2023,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "pupils": 99,
+      "first_known_year": 2024
+    },
+    {
+      "year": 2024,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "pupils": 137,
+      "first_known_year": 2025
+    },
+    {
+      "year": 2024,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "pupils": 137,
+      "first_known_year": 2025
+    },
+    {
+      "year": 2024,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "pupils": 107,
+      "first_known_year": 2025
+    },
+    {
+      "year": 2024,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "pupils": 107,
+      "first_known_year": 2025
+    },
+    {
+      "year": 2025,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "pupils": 126,
+      "first_known_year": 2026
+    },
+    {
+      "year": 2025,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "pupils": 126,
+      "first_known_year": 2026
+    },
+    {
+      "year": 2025,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "pupils": 96,
+      "first_known_year": 2026
+    },
+    {
+      "year": 2025,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "pupils": 96,
+      "first_known_year": 2026
+    },
+    {
+      "year": 2026,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "pupils": 134,
+      "first_known_year": 2027
+    },
+    {
+      "year": 2026,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "pupils": 134,
+      "first_known_year": 2027
+    },
+    {
+      "year": 2026,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "pupils": 104,
+      "first_known_year": 2027
+    },
+    {
+      "year": 2026,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "pupils": 104,
+      "first_known_year": 2027
+    },
+    {
+      "year": 2027,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "pupils": 142,
+      "first_known_year": 2028
+    },
+    {
+      "year": 2027,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "pupils": 142,
+      "first_known_year": 2028
+    },
+    {
+      "year": 2027,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "pupils": 112,
+      "first_known_year": 2028
+    },
+    {
+      "year": 2027,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "pupils": 112,
+      "first_known_year": 2028
+    },
+    {
+      "year": 2028,
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "pupils": 131,
+      "first_known_year": 2029
+    },
+    {
+      "year": 2028,
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "pupils": 131,
+      "first_known_year": 2029
+    },
+    {
+      "year": 2028,
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "pupils": 101,
+      "first_known_year": 2029
+    },
+    {
+      "year": 2028,
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "pupils": 101,
+      "first_known_year": 2029
+    }
+  ]
+}

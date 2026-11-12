@@ -1,0 +1,683 @@
+{
+  "schema_version": 1,
+  "regions": [
+    {
+      "code": "county",
+      "label": "合成县"
+    },
+    {
+      "code": "east",
+      "label": "合成东区",
+      "parent": "county"
+    },
+    {
+      "code": "west",
+      "label": "合成西区",
+      "parent": "county"
+    }
+  ],
+  "population": [
+    {
+      "year": 2026,
+      "region": "east",
+      "settlement": "urban",
+      "age": 3,
+      "count": 100
+    },
+    {
+      "year": 2026,
+      "region": "east",
+      "settlement": "urban",
+      "age": 4,
+      "count": 100
+    },
+    {
+      "year": 2026,
+      "region": "east",
+      "settlement": "urban",
+      "age": 5,
+      "count": 100
+    },
+    {
+      "year": 2026,
+      "region": "east",
+      "settlement": "urban",
+      "age": 6,
+      "count": 100
+    },
+    {
+      "year": 2026,
+      "region": "east",
+      "settlement": "urban",
+      "age": 7,
+      "count": 100
+    },
+    {
+      "year": 2026,
+      "region": "east",
+      "settlement": "urban",
+      "age": 8,
+      "count": 100
+    },
+    {
+      "year": 2026,
+      "region": "east",
+      "settlement": "urban",
+      "age": 9,
+      "count": 100
+    },
+    {
+      "year": 2026,
+      "region": "east",
+      "settlement": "urban",
+      "age": 10,
+      "count": 100
+    },
+    {
+      "year": 2026,
+      "region": "east",
+      "settlement": "urban",
+      "age": 11,
+      "count": 100
+    },
+    {
+      "year": 2026,
+      "region": "east",
+      "settlement": "urban",
+      "age": 12,
+      "count": 100
+    },
+    {
+      "year": 2026,
+      "region": "east",
+      "settlement": "urban",
+      "age": 13,
+      "count": 100
+    },
+    {
+      "year": 2026,
+      "region": "east",
+      "settlement": "urban",
+      "age": 14,
+      "count": 100
+    },
+    {
+      "year": 2026,
+      "region": "east",
+      "settlement": "urban",
+      "age": 15,
+      "count": 100
+    },
+    {
+      "year": 2026,
+      "region": "east",
+      "settlement": "urban",
+      "age": 16,
+      "count": 100
+    },
+    {
+      "year": 2026,
+      "region": "east",
+      "settlement": "urban",
+      "age": 17,
+      "count": 100
+    },
+    {
+      "year": 2026,
+      "region": "east",
+      "settlement": "urban",
+      "age": 18,
+      "count": 100
+    },
+    {
+      "year": 2026,
+      "region": "east",
+      "settlement": "rural",
+      "age": 3,
+      "count": 30
+    },
+    {
+      "year": 2026,
+      "region": "east",
+      "settlement": "rural",
+      "age": 4,
+      "count": 30
+    },
+    {
+      "year": 2026,
+      "region": "east",
+      "settlement": "rural",
+      "age": 5,
+      "count": 30
+    },
+    {
+      "year": 2026,
+      "region": "east",
+      "settlement": "rural",
+      "age": 6,
+      "count": 30
+    },
+    {
+      "year": 2026,
+      "region": "east",
+      "settlement": "rural",
+      "age": 7,
+      "count": 30
+    },
+    {
+      "year": 2026,
+      "region": "east",
+      "settlement": "rural",
+      "age": 8,
+      "count": 30
+    },
+    {
+      "year": 2026,
+      "region": "east",
+      "settlement": "rural",
+      "age": 9,
+      "count": 30
+    },
+    {
+      "year": 2026,
+      "region": "east",
+      "settlement": "rural",
+      "age": 10,
+      "count": 30
+    },
+    {
+      "year": 2026,
+      "region": "east",
+      "settlement": "rural",
+      "age": 11,
+      "count": 30
+    },
+    {
+      "year": 2026,
+      "region": "east",
+      "settlement": "rural",
+      "age": 12,
+      "count": 30
+    },
+    {
+      "year": 2026,
+      "region": "east",
+      "settlement": "rural",
+      "age": 13,
+      "count": 30
+    },
+    {
+      "year": 2026,
+      "region": "east",
+      "settlement": "rural",
+      "age": 14,
+      "count": 30
+    },
+    {
+      "year": 2026,
+      "region": "east",
+      "settlement": "rural",
+      "age": 15,
+      "count": 30
+    },
+    {
+      "year": 2026,
+      "region": "east",
+      "settlement": "rural",
+      "age": 16,
+      "count": 30
+    },
+    {
+      "year": 2026,
+      "region": "east",
+      "settlement": "rural",
+      "age": 17,
+      "count": 30
+    },
+    {
+      "year": 2026,
+      "region": "east",
+      "settlement": "rural",
+      "age": 18,
+      "count": 30
+    },
+    {
+      "year": 2026,
+      "region": "west",
+      "settlement": "urban",
+      "age": 3,
+      "count": 60
+    },
+    {
+      "year": 2026,
+      "region": "west",
+      "settlement": "urban",
+      "age": 4,
+      "count": 60
+    },
+    {
+      "year": 2026,
+      "region": "west",
+      "settlement": "urban",
+      "age": 5,
+      "count": 60
+    },
+    {
+      "year": 2026,
+      "region": "west",
+      "settlement": "urban",
+      "age": 6,
+      "count": 60
+    },
+    {
+      "year": 2026,
+      "region": "west",
+      "settlement": "urban",
+      "age": 7,
+      "count": 60
+    },
+    {
+      "year": 2026,
+      "region": "west",
+      "settlement": "urban",
+      "age": 8,
+      "count": 60
+    },
+    {
+      "year": 2026,
+      "region": "west",
+      "settlement": "urban",
+      "age": 9,
+      "count": 60
+    },
+    {
+      "year": 2026,
+      "region": "west",
+      "settlement": "urban",
+      "age": 10,
+      "count": 60
+    },
+    {
+      "year": 2026,
+      "region": "west",
+      "settlement": "urban",
+      "age": 11,
+      "count": 60
+    },
+    {
+      "year": 2026,
+      "region": "west",
+      "settlement": "urban",
+      "age": 12,
+      "count": 60
+    },
+    {
+      "year": 2026,
+      "region": "west",
+      "settlement": "urban",
+      "age": 13,
+      "count": 60
+    },
+    {
+      "year": 2026,
+      "region": "west",
+      "settlement": "urban",
+      "age": 14,
+      "count": 60
+    },
+    {
+      "year": 2026,
+      "region": "west",
+      "settlement": "urban",
+      "age": 15,
+      "count": 60
+    },
+    {
+      "year": 2026,
+      "region": "west",
+      "settlement": "urban",
+      "age": 16,
+      "count": 60
+    },
+    {
+      "year": 2026,
+      "region": "west",
+      "settlement": "urban",
+      "age": 17,
+      "count": 60
+    },
+    {
+      "year": 2026,
+      "region": "west",
+      "settlement": "urban",
+      "age": 18,
+      "count": 60
+    },
+    {
+      "year": 2026,
+      "region": "west",
+      "settlement": "rural",
+      "age": 3,
+      "count": 40
+    },
+    {
+      "year": 2026,
+      "region": "west",
+      "settlement": "rural",
+      "age": 4,
+      "count": 40
+    },
+    {
+      "year": 2026,
+      "region": "west",
+      "settlement": "rural",
+      "age": 5,
+      "count": 40
+    },
+    {
+      "year": 2026,
+      "region": "west",
+      "settlement": "rural",
+      "age": 6,
+      "count": 40
+    },
+    {
+      "year": 2026,
+      "region": "west",
+      "settlement": "rural",
+      "age": 7,
+      "count": 40
+    },
+    {
+      "year": 2026,
+      "region": "west",
+      "settlement": "rural",
+      "age": 8,
+      "count": 40
+    },
+    {
+      "year": 2026,
+      "region": "west",
+      "settlement": "rural",
+      "age": 9,
+      "count": 40
+    },
+    {
+      "year": 2026,
+      "region": "west",
+      "settlement": "rural",
+      "age": 10,
+      "count": 40
+    },
+    {
+      "year": 2026,
+      "region": "west",
+      "settlement": "rural",
+      "age": 11,
+      "count": 40
+    },
+    {
+      "year": 2026,
+      "region": "west",
+      "settlement": "rural",
+      "age": 12,
+      "count": 40
+    },
+    {
+      "year": 2026,
+      "region": "west",
+      "settlement": "rural",
+      "age": 13,
+      "count": 40
+    },
+    {
+      "year": 2026,
+      "region": "west",
+      "settlement": "rural",
+      "age": 14,
+      "count": 40
+    },
+    {
+      "year": 2026,
+      "region": "west",
+      "settlement": "rural",
+      "age": 15,
+      "count": 40
+    },
+    {
+      "year": 2026,
+      "region": "west",
+      "settlement": "rural",
+      "age": 16,
+      "count": 40
+    },
+    {
+      "year": 2026,
+      "region": "west",
+      "settlement": "rural",
+      "age": 17,
+      "count": 40
+    },
+    {
+      "year": 2026,
+      "region": "west",
+      "settlement": "rural",
+      "age": 18,
+      "count": 40
+    }
+  ],
+  "stages": [
+    {
+      "code": "preschool",
+      "min_age": 3,
+      "max_age": 5,
+      "class_size": 25,
+      "max_class_size": 30
+    },
+    {
+      "code": "primary",
+      "min_age": 6,
+      "max_age": 11,
+      "class_size": 35,
+      "max_class_size": 45
+    },
+    {
+      "code": "junior",
+      "min_age": 12,
+      "max_age": 14,
+      "class_size": 40,
+      "max_class_size": 50
+    },
+    {
+      "code": "senior",
+      "min_age": 15,
+      "max_age": 17,
+      "class_size": 40,
+      "max_class_size": 50
+    }
+  ],
+  "capacities": [
+    {
+      "facility": "east-urban-preschool",
+      "region": "east",
+      "settlement": "urban",
+      "stage": "preschool",
+      "from_year": 2026,
+      "through_year": 2030,
+      "seats": 400,
+      "classrooms": 12
+    },
+    {
+      "facility": "east-urban-primary",
+      "region": "east",
+      "settlement": "urban",
+      "stage": "primary",
+      "from_year": 2026,
+      "through_year": 2030,
+      "seats": 400,
+      "classrooms": 12
+    },
+    {
+      "facility": "east-urban-junior",
+      "region": "east",
+      "settlement": "urban",
+      "stage": "junior",
+      "from_year": 2026,
+      "through_year": 2030,
+      "seats": 400,
+      "classrooms": 12
+    },
+    {
+      "facility": "east-urban-senior",
+      "region": "east",
+      "settlement": "urban",
+      "stage": "senior",
+      "from_year": 2026,
+      "through_year": 2030,
+      "seats": 400,
+      "classrooms": 12
+    },
+    {
+      "facility": "east-rural-preschool",
+      "region": "east",
+      "settlement": "rural",
+      "stage": "preschool",
+      "from_year": 2026,
+      "through_year": 2030,
+      "seats": 200,
+      "classrooms": 6
+    },
+    {
+      "facility": "east-rural-primary",
+      "region": "east",
+      "settlement": "rural",
+      "stage": "primary",
+      "from_year": 2026,
+      "through_year": 2030,
+      "seats": 200,
+      "classrooms": 6
+    },
+    {
+      "facility": "east-rural-junior",
+      "region": "east",
+      "settlement": "rural",
+      "stage": "junior",
+      "from_year": 2026,
+      "through_year": 2030,
+      "seats": 200,
+      "classrooms": 6
+    },
+    {
+      "facility": "east-rural-senior",
+      "region": "east",
+      "settlement": "rural",
+      "stage": "senior",
+      "from_year": 2026,
+      "through_year": 2030,
+      "seats": 200,
+      "classrooms": 6
+    },
+    {
+      "facility": "west-urban-preschool",
+      "region": "west",
+      "settlement": "urban",
+      "stage": "preschool",
+      "from_year": 2026,
+      "through_year": 2030,
+      "seats": 300,
+      "classrooms": 9
+    },
+    {
+      "facility": "west-urban-primary",
+      "region": "west",
+      "settlement": "urban",
+      "stage": "primary",
+      "from_year": 2026,
+      "through_year": 2030,
+      "seats": 300,
+      "classrooms": 9
+    },
+    {
+      "facility": "west-urban-junior",
+      "region": "west",
+      "settlement": "urban",
+      "stage": "junior",
+      "from_year": 2026,
+      "through_year": 2030,
+      "seats": 300,
+      "classrooms": 9
+    },
+    {
+      "facility": "west-urban-senior",
+      "region": "west",
+      "settlement": "urban",
+      "stage": "senior",
+      "from_year": 2026,
+      "through_year": 2030,
+      "seats": 300,
+      "classrooms": 9
+    },
+    {
+      "facility": "west-rural-preschool",
+      "region": "west",
+      "settlement": "rural",
+      "stage": "preschool",
+      "from_year": 2026,
+      "through_year": 2030,
+      "seats": 200,
+      "classrooms": 6
+    },
+    {
+      "facility": "west-rural-primary",
+      "region": "west",
+      "settlement": "rural",
+      "stage": "primary",
+      "from_year": 2026,
+      "through_year": 2030,
+      "seats": 200,
+      "classrooms": 6
+    },
+    {
+      "facility": "west-rural-junior",
+      "region": "west",
+      "settlement": "rural",
+      "stage": "junior",
+      "from_year": 2026,
+      "through_year": 2030,
+      "seats": 200,
+      "classrooms": 6
+    },
+    {
+      "facility": "west-rural-senior",
+      "region": "west",
+      "settlement": "rural",
+      "stage": "senior",
+      "from_year": 2026,
+      "through_year": 2030,
+      "seats": 200,
+      "classrooms": 6
+    }
+  ],
+  "scenarios": [
+    {
+      "code": "baseline",
+      "horizon": 3
+    },
+    {
+      "code": "migration",
+      "parent": "baseline",
+      "horizon": 3,
+      "migrations": [
+        {
+          "year": 2026,
+          "age": 10,
+          "source": "west",
+          "source_settlement": "rural",
+          "destination": "east",
+          "destination_settlement": "urban",
+          "count": 20
+        }
+      ]
+    }
+  ]
+}

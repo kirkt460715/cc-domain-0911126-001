@@ -1,0 +1,6 @@
+.git
+.env
+.env.*
+__pycache__
+*.sqlite*
+vault-data
