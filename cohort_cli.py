@@ -18,6 +18,8 @@ from releases.exports import atomic_text, export_release, verify_export
 from releases.ledger import ConflictError, Ledger, canonical
 from school_pressure.aggregation import aggregate, rural_urban_gaps, turning_points
 from school_pressure.portfolio import compare_scenarios, envelope, rank_hotspots, scenario_summary
+from studies.archive import load_study, reopen_study, save_study, summarize_study
+from studies.demo import build_demo_payload, build_demo_variants
 
 
 def execute(batch, code):
@@ -73,6 +75,11 @@ def demo_command(args):
                 }
             integrity = ledger.verify()
             return {"scenarios": results, "integrity": integrity}
+
+
+def study_demo_command(args):
+    from studies.demo import run_demo
+    return run_demo(args.fixture)
 
 
 def parser():
@@ -137,6 +144,17 @@ def parser():
     recover.add_argument("--source", required=True)
     recover.add_argument("--database", required=True)
     recover.add_argument("--sha256", required=True)
+    study_run = commands.add_parser("study-run")
+    study_run.add_argument("input")
+    study_run.add_argument("--output", required=True)
+    study_show = commands.add_parser("study-show")
+    study_show.add_argument("archive")
+    study_show.add_argument("--full", action="store_true")
+    study_verify = commands.add_parser("study-verify")
+    study_verify.add_argument("archive")
+    study_verify.add_argument("--input", required=True)
+    study_demo = commands.add_parser("study-demo")
+    study_demo.add_argument("--fixture", required=True)
     return root
 
 
@@ -212,6 +230,15 @@ def main(argv=None):
             result = run_command(args)
         elif args.command == "demo":
             result = demo_command(args)
+        elif args.command == "study-run":
+            result = save_study(read_json(args.input), args.output)
+        elif args.command == "study-show":
+            archive = load_study(args.archive)
+            result = archive if args.full else summarize_study(archive)
+        elif args.command == "study-verify":
+            result = reopen_study(load_study(args.archive), args.input)
+        elif args.command == "study-demo":
+            result = study_demo_command(args)
         elif args.command in ("bundle-import", "bundle-export", "audit", "portfolio", "verify-export", "backtest"):
             result = analytics_command(args)
         else:
